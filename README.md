@@ -1,3 +1,5 @@
+<br>
+<br>
 <h1 align="center">Hi 👋, I'm Salman Ali</h1>
 
 ### Full Stack Developer | MERN Stack | JavaScript
