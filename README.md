@@ -3,26 +3,14 @@
 
 <h3 align="center">Full Stack Developer | MERN Stack | Building Scalable Web Applications</h3>
 
-💻 Passionate about building scalable web applications.
+<h2> Connect with me: </h2>
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-## 🚀 Tech Stack
-
-React • Node.js • Express • MongoDB • JavaScript • Tailwind CSS • Git • GitHub
-
----
-
-## 📊 GitHub Stats
-
-<!-- GitHub Stats Image -->
-
----
-
-## 🌎 Connect with me
-
-LinkedIn
-Portfolio
-Email
-
----
+  <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
