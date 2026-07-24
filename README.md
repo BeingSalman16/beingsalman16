@@ -30,4 +30,6 @@ Full Stack Developer | MERN Stack | Building Scalable Web Applications
 <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,express,git,github,html,java,js,mongodb,mysql,nodejs,npm,postman,react,tailwind,vite,vscode,webpack,sqlite&perline=16" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=beingsalman16&theme=default)](https://git.io/streak-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BeingSalman16&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
