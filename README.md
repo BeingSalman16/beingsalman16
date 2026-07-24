@@ -23,3 +23,9 @@ Full Stack Developer | MERN Stack | Building Scalable Web Applications
     <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="45"/>
   </a>
 </p>
+
+<b>Languages and Tools: </b>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,css,express,git,github,html,java,js,mongodb,mysql,nodejs,npm,postman,react,tailwind,vite,vscode,webpack,sqlite&perline=16" />
+</p>
