@@ -52,7 +52,7 @@ Passionate about building scalable, user-centric web applications using modern J
 - ⚡ Strong interest in JavaScript, React.js, Node.js & MongoDB
 
 - 📫 Reach me:
-**your-email@gmail.com**
+**raishsalman543@gmail.com**
 
 ---
 
