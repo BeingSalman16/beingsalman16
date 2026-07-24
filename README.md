@@ -31,7 +31,7 @@ Passionate about building scalable, user-centric web applications using modern J
 <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:raishsalman543@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
