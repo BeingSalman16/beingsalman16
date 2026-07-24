@@ -10,7 +10,7 @@ Connect with me:
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-  <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+ <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" />
+</a>
 </p>
