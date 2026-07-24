@@ -13,4 +13,8 @@
  <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
 </a>
+
+<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" height="40" />
+</a>
 </p>
