@@ -3,7 +3,7 @@
 
 <h3 align="center">Full Stack Developer | MERN Stack | Building Scalable Web Applications</h3>
 
-<h2> Connect with me: </h2>
+##Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
