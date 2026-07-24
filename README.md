@@ -12,15 +12,15 @@ Full Stack Developer | MERN Stack | Building Scalable Web Applications
 
 <p align="left">
   <a href="https://www.linkedin.com/in/salman-b3b4bb253/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
 
   <a href="https://leetcode.com/u/SalmanRaish/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="35"/>
   </a>
 
   <a href="https://www.geeksforgeeks.org/profile/salmanyith?tab=activity" target="_blank">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="45"/>
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="35"/>
   </a>
 </p>
 
