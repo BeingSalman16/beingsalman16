@@ -60,7 +60,7 @@ Passionate about building scalable, user-centric web applications using modern J
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode,postman,npm,vite,java,cpp,c,Render,jenkins,aws,nextjs,firebase,docker,linux&perline=11"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode,postman,npm,vite,java,cpp,c,jenkins,aws,nextjs,firebase,docker,linux&perline=11"/>
 
 </p>
 
